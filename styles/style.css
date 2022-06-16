@@ -123,14 +123,6 @@
   font-weight: bolder;
 }
 
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
-
 .digits{
   margin: 100px 0 0;
   display: flex;
@@ -270,9 +262,12 @@
   width: 1100px;
 }
 
-.table__cell_theme_dark{
+/* и элемента с модификатором вида ключ-значение */
+.table__cell_theme_dark {
   width: 200px;
-  margin: 80px 0 0;
+  color: white;
+  margin-right: 0;
+  margin-top: 80px;
 }
 
 .table__heading__theme_dark{
@@ -326,8 +321,8 @@
 }
 
 .footer__author{
-  /*padding-bottom: 18px;
-  padding-top: 18px;*/
+  padding-bottom: 18px;
+  padding-top: 18px;
   color: #fff;
   font-size: 18px;
   line-height: 25px;
@@ -356,7 +351,7 @@
   font-size: 18px;
   line-height: 30px;
   font-weight: normal;
-  list-style-type: none
+  list-style-type: none;
 }
 
 .footer__column-link{
