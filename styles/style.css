@@ -304,7 +304,7 @@
   width: 877px;
   height: 877px;
   background-repeat: no-repeat;
-  background-position: top 0 right -210px; 
+  background-position: top 0 right -210px;
   position: absolute;
   right: 0;
   top: 0;
@@ -341,9 +341,9 @@
 }
 
 .footer__author{ 
-  padding-bottom: 18px; 
-  padding-top: 18px; 
-  color: #fff; 
+  padding-bottom: 18px;
+  padding-top: 18px;
+  color: #fff;
   font-size: 18px; 
   line-height: 25px; 
   font-weight: normal; 
