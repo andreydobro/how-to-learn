@@ -102,10 +102,6 @@
   margin: 0;
 }
 
-.two-columns__brief{
-  margin-top: 0;
-}
-
 .two-columns__main-text{
   min-width: 784;
   width: 80%;
@@ -150,11 +146,6 @@
   line-height: 34px;
   font-style: normal;
   margin: 0;
-}
-
-.section-title{
-  width: 60%;
-  text-align: center;
 }
 
 .table{
