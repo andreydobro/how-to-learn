@@ -1,0 +1,9 @@
+.table_theme_dark {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  justify-content: space-between;
+  align-content: space-between;
+  position: relative;
+  padding: 0;
+  margin: 0 auto;
+}
